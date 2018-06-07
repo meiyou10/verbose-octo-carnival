@@ -11,3 +11,4 @@ Commit 19 - local
 Commit 20 - local
 
 change in GitHub
+change in GitHub - will generate conflict

@@ -13,3 +13,5 @@ Commit 20 - local
 change in GitHub
 change in local repository - will definitely generate some conflict (conflict solved)
 change in GitHub - will generate conflict (conflict solved)
+
+new change directly in GitHub
